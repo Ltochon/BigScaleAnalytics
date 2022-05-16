@@ -43,3 +43,4 @@ if __name__ == '__main__':
     print(TMDB().get_poster_path_by_id("862.0")) # Toy Story
 
     print("--- %s seconds ---" % (time.time() - start_time))
+
